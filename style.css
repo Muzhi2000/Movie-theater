@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(124, 6, 6);
+    
+}
+.head{
+    color: yellow;
+    font-style: italic;
+    font-display: block;
+    margin-left: 100px;
+}
+#text{
+    color: rgb(67, 27, 212);
+    font-size: 20px;
+    margin-left: 210px;
+}
+table{
+    height: 495px;
+    width: 800px;
+    border-collapse: collapse;
+    border: solid yellow;
+    box-shadow: 2px 2px 10px 10px rgb(201, 111, 111);
+}
+.movie{
+height: 500px;
+
+}
+.buttun{
+    margin-left: 350px;
+    margin-top: 40px;
+    gap: 8px;
+    
+}
+.star{
+    margin-left: 400px;
+    margin-top: 30px;
+    color: yellow;
+
+}
+#image1{
+    position: absolute;
+    right: 8%;
+    top: 27%;
+}
+#p1{
+    color: white;
+    position: absolute;
+    right:13% ;
+    top:60% ;
+}
+#image2{
+    position: absolute;
+    right: 8%;
+    top: 70%;
+}
+#p2{
+    color: white;
+    position: absolute;
+    right:13% ;
+    top:105% ;
+}
+#p3{
+    font-size: 25px;
+    color: white;
+    position: absolute;
+    right:16% ;
+    top:13% 
+    
+}
